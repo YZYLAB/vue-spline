@@ -21,7 +21,6 @@ export default {
     className: {
       type: String,
     },
-
     canvasStyle: {
       type: Object,
       default: () => {
