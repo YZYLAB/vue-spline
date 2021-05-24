@@ -1,9 +1,8 @@
-# ![Vue Spline](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
 # Vue Spline
 A spline.design wrapper for VueJS to add 3D animations easily into your Vue projects
 
 ## Demo
-Here is a working live demo :  https://iharsh234.github.io/WebApp/
+# ![Vue Spline](https://i.imgur.com/G9b7po6.gif)
 
 <!-- GETTING STARTED -->
 <h2 id="getting-started"> :book: Getting Started</h2>
