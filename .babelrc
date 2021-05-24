@@ -1,0 +1,3 @@
+{
+    "ignore": ["src/three.js","src/spline.runtime.min.js"]
+  }
