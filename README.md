@@ -54,3 +54,5 @@ To fix a bug or enhance an existing module, follow these steps:
 If you find a bug kindly open an issue [here](https://github.com/YZYLAB/vue-spline/issues/new)
 
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/YZYLAB/vue-spline/issues/new).
+
+Inspired [by](https://github.com/utkarshdubey/react-spline)
