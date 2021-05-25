@@ -1,6 +1,6 @@
 {
  "name": "vue-spline",
- "version": "0.0.3",
+ "version": "0.0.4",
  "description": "A spline wrapper for VueJS to add 3D animations easily into your projects",
  "main": "dist/index.js",
  "private": false,
